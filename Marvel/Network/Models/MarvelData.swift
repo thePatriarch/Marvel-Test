@@ -4,7 +4,7 @@
 
 import Foundation
 
-struct Data : Codable {
+struct MarvelData : Codable {
 
 	let count : Int?
 	let limit : Int?

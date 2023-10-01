@@ -10,7 +10,7 @@ struct CharacterAPIModel : Codable {
 	let attributionText : String?
 	let code : Int?
 	let copyright : String?
-	let data : Data?
+	let data : MarvelData?
 	let etag : String?
 	let status : String?
 
@@ -30,7 +30,7 @@ struct CharacterAPIModel : Codable {
 		attributionText = try values.decodeIfPresent(String.self, forKey: .attributionText)
 		code = try values.decodeIfPresent(Int.self, forKey: .code)
 		copyright = try values.decodeIfPresent(String.self, forKey: .copyright)
-		data = try Data(from: decoder)
+		data = try values.decodeIfPresent(MarvelData.self, forKey: .data)
 		etag = try values.decodeIfPresent(String.self, forKey: .etag)
 		status = try values.decodeIfPresent(String.self, forKey: .status)
 	}

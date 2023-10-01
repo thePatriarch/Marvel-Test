@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D51DDFE3-67A4-4F49-8A73-B420F5934A17"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0153951-8C0F-4814-8183-AE18C6AFE4D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvel/Network/Models/Thumbnail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fullString()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0153951-8C0F-4814-8183-AE18C6AFE4D0 - eebf2a139cc0af7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.Thumbnail.fullString() -&gt; Swift.String"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/Small%20Test/Marvel/Marvel/Network/Models/Thumbnail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "B0153951-8C0F-4814-8183-AE18C6AFE4D0 - eebf2a139cc0af7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.Thumbnail.fullString() -&gt; Swift.String"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/Small%20Test/Marvel/Marvel/Network/Models/Thumbnail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "B0153951-8C0F-4814-8183-AE18C6AFE4D0 - eebf2a139cc0af7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Marvel.Thumbnail.fullString() -&gt; Swift.String"
+                  moduleName = "Marvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Downloads/Small%20Test/Marvel/Marvel/Network/Models/Thumbnail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
